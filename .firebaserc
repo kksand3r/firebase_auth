@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "flutter-auth-app-2f23c": {
+      "hosting": {
+        "auth-app": [
+          "flutter-auth-app-2f23c-auth"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
