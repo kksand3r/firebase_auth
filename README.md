@@ -2,7 +2,7 @@
 
 Це проект **Firebase Auth App**, розроблений на Flutter з використанням Firebase виключно для автентифікації користувачів. Додаток демонструє базові принципи роботи з Firebase Auth, включаючи реєстрацію, авторизацію та відновлення доступу.
 
-🌐 **Жива демо-версія:** [https://flutter-auth-app-2f23c.web.app](https://flutter-auth-app-2f23c.web.app)
+🌐 **Жива демо-версія:** [https://flutter-auth-app-2f23c-auth.web.app](https://flutter-auth-app-2f23c-auth.web.app)
 
 ## 🚀 Основний функціонал
 
